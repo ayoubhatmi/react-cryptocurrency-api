@@ -1,4 +1,4 @@
-### Cryptocurrency price tracker app built using React and styled-components.
+### Cryptocurrency price tracker app built using React JS and styled-components.
 
  API from [CoinGecko](https://www.coingecko.com/en/api). 
  </br>

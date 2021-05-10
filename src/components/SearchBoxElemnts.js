@@ -14,15 +14,17 @@ export const Title = styled.h1`
   }
 `;
 export const SearchBox = styled.input`
-  background-image: linear-gradient(
+  /* background-image: linear-gradient(
     -225deg,
     #ac32e4 0%,
     #7918f2 48%,
     #4801ff 100%
-  );
+  ); */
+
+  background-color: #090c10;
   width: 300px;
   height: 50px;
-  border-radius: 4px;
+  border-radius: 6px;
   border: none;
   padding-left: 1rem;
   color: #e2e2e2;
